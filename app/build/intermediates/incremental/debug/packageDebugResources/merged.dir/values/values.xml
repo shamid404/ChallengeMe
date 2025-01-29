@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ChallengeMe</string>
+    <string name="gcm_defaultSenderId" translatable="false">446045086456</string>
+    <string name="google_api_key" translatable="false">AIzaSyCu0DG_Bar5ab5jOdGBkbM4wu1-_NwBD80</string>
+    <string name="google_app_id" translatable="false">1:446045086456:android:ae8a1b26ed06df4b84110d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCu0DG_Bar5ab5jOdGBkbM4wu1-_NwBD80</string>
+    <string name="google_storage_bucket" translatable="false">challengeme-dimali.firebasestorage.app</string>
+    <string name="project_id" translatable="false">challengeme-dimali</string>
+    <style name="Theme.ChallengeMe" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
